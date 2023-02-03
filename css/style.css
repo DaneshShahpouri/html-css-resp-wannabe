@@ -166,6 +166,7 @@ img {
 
     .steps .col {
         width: 100%;
+        margin-bottom: 1em;
     }
 
     .why-us {
@@ -180,6 +181,10 @@ img {
     
     .why-us .col-right {
         width: 100%;
+    }
+
+    .card{
+        margin-bottom:1.5em;
     }
 }
  
